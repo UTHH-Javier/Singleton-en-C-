@@ -1,3 +1,4 @@
 # Singleton-en-C-
-Es un patron de diseño diseñado para restringir la instancia de una clase más de 1 vez.
+Es un Patron de Diseño diseñado para restringir la instancia de una clase más de 1 vez.
 JAVIER HERNANDEZ HERNANDEZ
+hola mundo
